@@ -6,4 +6,9 @@ run fix_circle.m to show electron circling under static electric field
 
 run dynamic_circle to show electron circling under dynamic electric field
 ```
+## Electron under static electric field
+Begin
+
+End
+![image](https://imgur.com/l6EqMuh)
 
