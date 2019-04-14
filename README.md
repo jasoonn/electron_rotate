@@ -16,5 +16,16 @@ run dynamic_circle to show electron circling under dynamic electric field
 
 
 <img src="https://github.com/jasoonn/electron_rotate/blob/master/images/no_change_final.gif" width="400" height="320">
+## Electron under static dynamic field
+```Begin```
+
+
+<img src="https://github.com/jasoonn/electron_rotate/blob/master/images/dynamic.gif" width="400" height="320">
+
+```End```
+
+
+<img src="https://github.com/jasoonn/electron_rotate/blob/master/images/dymamic.PNG" width="400" height="320">
+
 
 
