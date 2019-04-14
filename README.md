@@ -2,6 +2,11 @@
 ```
 Implementing under Matlab
 
+Display single electron circling under controlled electric potential
+Using difference equation get electric fields based on given electric potential.
+Set initial condition to make electron cirle around the center of the window 
+
+
 run circle.m to generate .mat records file under potential to record electric force
 
 run fix_circle.m to show electron circling under static electric field
