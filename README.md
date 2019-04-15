@@ -8,7 +8,7 @@ Set initial condition to make electron cirle around the center of the window.
 There are 50 electric field distribution under dynamic electric field. We will apply the best fit one after each movement of the electron.
 
 
-run circle.m to generate .mat records file under potential to record electric force
+run circle.m to generate .mat records file under ./potential to record electric force
 
 run fix_circle.m to show electron circling under static electric field
 
